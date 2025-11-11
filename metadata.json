@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Tracker - Field Force Management",
+  "description": "A web application for field force management, allowing employees to track daily activities, manage follow-ups, and update their profiles. Administrators can oversee all employee activities and manage user accounts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
